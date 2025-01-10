@@ -2,19 +2,53 @@
 void setup() {
     size(400, 400); 
     background(255,255,255,100);
-}
+//}
 
 
 //🟢Draw Procedure - Runs on Repeat
-void draw(){
+//void draw(){
   fill(255,255,255);
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
-
-  
-
+  fill(250,180,80)
+  ellipse(200, 200,300,300);
+  fill(80,40,40)
+  ellipse(200, 200, 30, 30);
+   fill(80,40,40)
+  ellipse(180, 180, 20, 20);
+     fill(80,40,40)
+  ellipse(140, 180, 20, 20);
+  fill(80,40,40)
+  ellipse(140, 140, 20, 20);
+  fill(80,40,40)
+  ellipse(140, 180, 20, 20);
+  fill(80,40,40)
+  triangle(165, 294, 172, 308, 154, 303);
+  fill(80,40,40)
+  triangle(190, 71, 172, 80,183, 97);
+   fill(80,40,40)
+   triangle(238, 220, 230, 232,245, 232);
+   fill(80,40,40)
+   ellipse(286, 255, 30, 30);
+   fill(80,40,40)
+   triangle(267, 294, 287, 308, 239, 307);
+   fill(80,40,40)
+   ellipse(79, 236, 20, 20);
+   fill(80,40,40)
+   ellipse(259, 169, 30, 30);
+    fill(80,40,40)
+   triangle(307, 166, 310, 186, 293, 179);
+   fill(80,40,40)
+   ellipse(164, 277, 20, 20);
+  ellipse(145, 192, 20, 20);
+  ellipse(211, 125, 30, 30);
+   ellipse(131, 261, 20,20);
+      ellipse(141, 241, 20,20);
+         ellipse(208, 259, 20,20);
+            ellipse(97, 143, 30,30);
+               
+   
 }
 
 //🟡Extra FUN Features Ms. Hall Added
